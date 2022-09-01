@@ -29,4 +29,4 @@ Les cas d'utilisation correspondent à l'ensemble des actions réalisées par un
 
 ## wireframe
 
-https://whimsical.com/DRSDegDS671YRmZxjA4jFq
+https://whimsical.com/o-quiz-QUR4DNXwLw3ys5nGU6Es9d
